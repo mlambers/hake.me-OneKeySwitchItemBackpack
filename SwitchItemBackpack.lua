@@ -9,6 +9,15 @@ SwitchItemBackpack.itemList = {
 	item_ward_dispenser = true,
 	item_tango_single = true,
 	
+	item_power_treads = true,
+	
+	item_recipe_hand_of_midas = true,
+	item_recipe_oblivion_staff = true,
+	item_recipe_pers = true,
+	item_recipe_wraith_band = true,
+	item_recipe_null_talisman = true,
+	item_recipe_mekansm = true,
+	
 	item_clarity = true,
 	item_faerie_fire = true,
 	item_enchanted_mango = true,
