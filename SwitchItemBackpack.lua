@@ -13,7 +13,6 @@ SwitchItemBackpack.itemList = {
 	
 	item_recipe_hand_of_midas = true,
 	item_recipe_oblivion_staff = true,
-	item_recipe_pers = true,
 	item_recipe_wraith_band = true,
 	item_recipe_null_talisman = true,
 	item_recipe_mekansm = true,
