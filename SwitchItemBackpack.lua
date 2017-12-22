@@ -1,4 +1,4 @@
--- Version: [0.2] - 08-10-2017
+-- Version: [0.3] - 22-12-2017
 
 local SwitchItemBackpack = {}
 
@@ -85,7 +85,12 @@ SwitchItemBackpack.itemList = {
 	item_heavens_halberd = true,
 	item_sange_and_yasha = true,
 	item_skadi = true,
-	item_satanic = true
+	item_satanic = true,
+
+	item_kaya = true,
+	item_meteor_hammer = true,
+	item_aeon_disk = true,
+	item_spirit_vessel, true
 }
 SwitchItemBackpack.sleepers = {}
 
